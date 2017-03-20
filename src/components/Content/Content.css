@@ -1,0 +1,17 @@
+.content {
+  position: absolute;
+  left: 300px;
+  top: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.top {
+  height: 50%;
+  background: #ddd;
+}
+
+.bottom {
+  height: 50%;
+  background: #aaa;
+}
