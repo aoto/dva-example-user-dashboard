@@ -6,7 +6,6 @@ import Bottom from './Bottom';
 function Content() {
   return (
     <div className={styles.content}>
-      Content:
       <Top />
       <Bottom />
     </div>

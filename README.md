@@ -1,24 +1,4 @@
-# dva-example-user-dashboard
+# 原型
 
-详见[《12 步 30 分钟，完成用户管理的 CURD 应用 (react+dva+antd)》](https://github.com/sorrycc/blog/issues/18)。
+![image](http://024028.oss-cn-hangzhou-zmf.aliyuncs.com/uploads/data_release/jss/c0c60a927ddf99ac2a2fe67f1b5e750e/image.png)
 
----
-
-<p align="center">
-  <img src="https://zos.alipayobjects.com/rmsportal/bmkNCEoluwGaeGjYjInf.png" />
-</p>
-
-## Getting Started
-Install dependencies.
-
-```bash
-$ npm install
-```
-
-Start server.
-
-```bash
-$ npm start
-```
-
-If success, app will be open in your default browser automatically.

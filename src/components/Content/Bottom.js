@@ -4,7 +4,7 @@ import styles from './Content.css';
 function Buttom() {
   return (
     <div className={styles.bottom}>
-      Buttom
+      ButtomButtomButtomButtomButtom
     </div>
   );
 }
